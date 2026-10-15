@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Audio and generated files (keep your songs out of the repository)
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.aif
+*.aiff
+*.partial
+clicks/
+clics/
+click_settings.txt
+reglages.txt
